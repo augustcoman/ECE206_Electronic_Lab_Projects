@@ -11,3 +11,6 @@ As the values of the encoder pins change, the code will interpret that as a stat
 
 For this project an H-bridge circuit will be constructed to control both the intensity and direction of a basic DC electric motor. This will be constructed with a pair of NMOS and PMOS MOSFET transistors, and controlled using an Arduino with PWM output. The voltage on either side of the H-bridge is controlled by a PWM output on one side for intensity, and a digital switch on the other to toggle direction. In its current configuration, the speed and direction of the motor are dictated by serial signals sent manually via Arduino IDE on the computer, and this can be configured to utilize an encoder or potentiometer as an alternative.
 
+## Other Lab Descriptions and Content
+
+WIP
